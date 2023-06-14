@@ -7,7 +7,7 @@ namespace IAD_Week6B_DanielPius_EmpDB
 		{
 		}
 
-		private void CalculateSallary()
+		public void CalculateSallary()
 		{
 
 		}
